@@ -1,0 +1,34 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+body {
+  background-color: #3C4C59;
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+  color: beige;
+}
+
+.stateOfVotes {
+  text-indent: 1305px;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: white;
+}
+
+
+
